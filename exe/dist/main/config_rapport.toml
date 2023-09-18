@@ -1,0 +1,44 @@
+[document]
+atmo_logo = "image/Atmo_HDF_350.png"
+couleur_tableau_titre = "B1B1FE"
+couleur_mauvais = "FF0000"
+couleur_moyen = "FF7F00"
+couleur_bon = "34C924"
+couleur_invalid = "606060"
+
+["shadow limit"]
+PM10=5
+PM2.5=5
+O3=19
+NO2=19
+PM1=2
+NH3=5
+CO=5
+CO2=5
+SO2=5
+H2S=5
+HCL=5
+Mercaptan=5
+COV=5
+Alcools=5
+
+
+
+
+[LQ]
+Température =-50
+Humidité =0
+PM10 =3
+"PM2.5" =3
+O3=4
+NO2=3.824
+PM1=1
+NH3=5
+CO=5
+CO2=5
+SO2=5
+H2S=5
+HCL=5
+Mercaptan=5
+COV=5
+Alcools=5
